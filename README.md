@@ -1,7 +1,7 @@
 # LiveGL
 LiveGL is a set of Max for Ableton Live devices that act as an interface for controlling jitter and OpenGL-based visuals running in Max. Users can control visuals through a spectrum analyser, an LFO and a series of buttons and dials, all individually mappable to a wide selection of geometry and video fx parameters. LiveGL lets you load, play and switch videos onto your background or onto a selection of geometrical shapes. 
 
-![Screenshot 2021-05-11 132839](https://user-images.githubusercontent.com/83727369/117859349-dda14080-b25c-11eb-9870-17b5aa7dcba3.png)
+![Screenshot 2021-05-11 132839](https://user-images.githubusercontent.com/83727369/117859567-2ce77100-b25d-11eb-923a-ba885b852986.png)
 
 # User Guide 
 To start using LiveGL, download LiveGL and open up the folder, drag LiveGL_Main into any empty track in Ableton Live, double click and minimize LiveGL_jitterHandler, and drag LiveGL_5LFO, DIAL, and/or SPEC into any track. Make sure Main’s on/off button is in the on state, and drag the LiveGL to the side of your display, or to its own display preferably. 
@@ -27,7 +27,6 @@ To start sending control signals with 5LFO, DIAL, or SPECTRUM, make sure the dev
 
 # Background 
 Having attended and streamed a bunch of electronic music concerts over the years, I’ve taken note of the increased use of 3D imagery in stage productions for various DJs and artists, namely Deadmau5, Porter Robinson, Zedd and other industry titans. Porter Robinson's live visual artist, Ryan Sicaino, known as Ghostdad, was a particular inspiration for LiveGL due to his use of geometrical shapes and video effects in a number of live productions in addition to Porter’s. 
-
 When I started to program in Max, I found myself trying to create 3D imagery and other visual effects that would sync up to music I was making in Ableton Live. I would end up spending what felt like hours on a single patch just trying to get the music synced up, and I knew there had to be an easier way. When I heard there wasn't yet, I decided to make something that remedies this. I wanted to make something that any Ableton Live user could run in the background and edit to be cued perfectly with an Ableton Live project. 
 
 LiveGL can be used by anyone for anything, from a budding artistic idea to a full live show. If you have ideas for LiveGL or want to help improve it, reach out at jcc836@nyu.edu.
