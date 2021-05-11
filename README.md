@@ -23,6 +23,7 @@ To start sending control signals with 5LFO, DIAL, or SPECTRUM, make sure the dev
 
 # Background 
 Having attended and streamed a bunch of electronic music concerts over the years, I’ve taken note of the increased use of 3D imagery in stage productions for various DJs and artists, namely Deadmau5, Porter Robinson, Zedd and other industry titans. Porter Robinson's live visual artist, Ryan Sicaino, known as Ghostdad, was a particular inspiration for LiveGL due to his use of geometrical shapes and video effects in a number of live productions in addition to Porter’s. 
+
 When I started to program in Max, I found myself trying to create 3D imagery and other visual effects that would sync up to music I was making in Ableton Live. I would end up spending what felt like hours on a single patch just trying to get the music synced up, and I knew there had to be an easier way. When I heard there wasn't yet, I decided to make something that remedies this. I wanted to make something that any Ableton Live user could run in the background and edit to be cued perfectly with an Ableton Live project. 
 
 LiveGL can be used by anyone for anything, from a budding artistic idea to a full live show. If you have ideas for LiveGL or want to help improve it, email me at jcc836@nyu.edu.
