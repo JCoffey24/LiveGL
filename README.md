@@ -1,7 +1,7 @@
 # LiveGL
 LiveGL is a set of Max for Ableton Live devices that act as an interface for controlling jitter and OpenGL-based visuals running in Max. Users can control visuals through a spectrum analyser, an LFO and a series of buttons and dials, all individually mappable to a wide selection of geometry and video fx parameters. LiveGL lets you load, play and switch videos onto your background or onto a selection of geometrical shapes. 
 
-![Screenshot 2021-05-11 132038](https://user-images.githubusercontent.com/83727369/117858279-b4cc7b80-b25b-11eb-99e2-b18474ad1d07.png)
+![Screenshot 2021-05-11 132839](https://user-images.githubusercontent.com/83727369/117859349-dda14080-b25c-11eb-9870-17b5aa7dcba3.png)
 
 # User Guide 
 To start using LiveGL, download LiveGL and open up the folder, drag LiveGL_Main into any empty track in Ableton Live, double click and minimize LiveGL_jitterHandler, and drag LiveGL_5LFO, DIAL, and/or SPEC into any track. Make sure Main’s on/off button is in the on state, and drag the LiveGL to the side of your display, or to its own display preferably. 
