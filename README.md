@@ -1,11 +1,17 @@
 # LiveGL
-LiveGL is a set of Max for Ableton Live devices that act as an interface for controlling jitter and OpenGL-based visuals running in Max. Users can control visuals through a spectrum analyser, an LFO and a series of buttons and dials, all individually mappable to a wide selection of geometry and video fx parameters. LiveGL lets you load, play and switch videos onto your background or onto a selection of geometrical shapes. 
+LiveGL is a set of Max for Ableton Live devices that act as an interface for controlling jitter and OpenGL-based visuals running in Max. Users can control visuals through a spectrum analyser, a group of LFOs and a series of buttons and dials, all individually mappable to a wide selection of geometry and video fx parameters. LiveGL lets you load, play and switch videos onto your background or onto a selection of geometrical shapes, so you can create interesting and engaging visuals that are cued to your Ableton Live project.
 
 ![Screenshot 2021-05-11 132839](https://user-images.githubusercontent.com/83727369/117859567-2ce77100-b25d-11eb-923a-ba885b852986.png)
 
 # User Guide 
-To start using LiveGL, download LiveGL and open up the folder, drag LiveGL_Main into any empty track in Ableton Live, double click and minimize LiveGL_jitterHandler, and drag LiveGL_5LFO, DIAL, and/or SPEC into any track. Make sure Main’s on/off button is in the on state, and drag the LiveGL to the side of your display, or to its own display preferably. 
-     
+LiveGL features 3 Max for Live devices that can be used to automate and control your LiveGL scene; 5LFO, DIAL, and SPECTRUM.
+
+5LFO features 5 separate LFOs, each of which have their own frequency, phase, inversion and waveform settings. Selecting a tab above the preview window allows the user to see each LFO signal. 
+DIAL is a series of buttons, dials, and sliders that can be used to directly automate any parameter in your LiveGL scene. 
+SPECTRUM (SPEC) is a simple filer device that turns amplitude information into automation data for your LiveGL scene. Drag it onto a track playing audio and adjust the cutoff and filter type to capture the desired range, choose either the left or right signal to filter, and adjust the smooth up and smooth down values to ease the intensity of a transient. 
+
+To start using LiveGL, download LiveGL and open up the folder, double click and minimize LiveGL_jitterHandler, drag LiveGL_Main into any empty track in Ableton Live, and drag LiveGL_5LFO, DIAL, and/or SPEC into any track. Make sure Main’s on/off button is in the on state, and drag the LiveGL to the side of your display, or to its own display preferably. 
+
 To load and play videos on a shape, press the clear button to make sure the video menu is clear (if this is your first video loaded), drag a video to the appropriate box, then click in the Select_Video menu and select video 1. Loading a custom .obj file works the same way. 
 
 To start sending control signals with 5LFO, DIAL, or SPECTRUM, make sure the device is on (top left corner) and mess with some parameters, then go over to the Main control device and find an effect or parameter you want to control, click the menu up and to the left of the effect or parameter’s name and select where you’d like to receive a control signal from. Use the MIN and MAX dials below the menu to scale the incoming data. 
