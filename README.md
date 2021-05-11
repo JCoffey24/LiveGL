@@ -7,8 +7,12 @@ LiveGL is a set of Max for Ableton Live devices that act as an interface for con
 LiveGL features 3 Max for Live devices that can be used to automate and control your LiveGL scene; 5LFO, DIAL, and SPECTRUM.
 
 5LFO features 5 separate LFOs, each of which have their own frequency, phase, inversion and waveform settings. Selecting a tab above the preview window allows the user to see each LFO signal. 
+
 DIAL is a series of buttons, dials, and sliders that can be used to directly automate any parameter in your LiveGL scene. 
+
 SPECTRUM (SPEC) is a simple filer device that turns amplitude information into automation data for your LiveGL scene. Drag it onto a track playing audio and adjust the cutoff and filter type to capture the desired range, choose either the left or right signal to filter, and adjust the smooth up and smooth down values to ease the intensity of a transient. 
+
+MAIN is where the magic happens. Its also the most daunting to look at when loading it into Ableton for the first time. To the left you'll see several boxes where you can drag and drop videos and .obj files. Below each drop box is a menu that lets you select and cue different videos and .obj files. The first red chunk of menus, boxes and dials is where you can specify which settings you want automated and from where they receive automation info from, specifically for the background in this case. Each parameter has a name, a number box (above the name), its control signal menu (up and to the left of the name), and a MIN and MAX knob for adjusting the range of incoming values (to the left of the name). Each of the other 5 geometric shapes have their own control selection groups, some with slightly different parameters with respect to their geometry type. 
 
 To start using LiveGL, download LiveGL and open up the folder, double click and minimize LiveGL_jitterHandler, drag LiveGL_Main into any empty track in Ableton Live, and drag LiveGL_5LFO, DIAL, and/or SPEC into any track. Make sure Main’s on/off button is in the on state, and drag the LiveGL to the side of your display, or to its own display preferably. 
 
