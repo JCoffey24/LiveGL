@@ -15,7 +15,7 @@ To start sending control signals with 5LFO, DIAL, or SPECTRUM, make sure the dev
 
 - Using Scale parameters: if you click on a number above a scale parameter and your shape disappears, try dragging the other scale numbers for the same shape up a little -If your videos are stuttering, hit the X button near the name of the geometry that seems to have a video skipping. When you see the video play in reverse instead of ending, press the button again and the skipping should be gone. (this is a result of a bug within jit.movie, the “bug buttons” are a temporary fix)
 
-- If there is no audio coming through a track, or its muffled, make sure SPECTRUM is not in preview mode. 
+- If there is no audio coming through a track, or its muffled, make sure SPECTRUM is on and not in preview mode. 
 
 # Tips
 
