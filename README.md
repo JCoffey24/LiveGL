@@ -29,6 +29,8 @@ To start sending control signals with 5LFO, DIAL, or SPECTRUM, make sure the dev
 
 - If there is no audio coming through a track, or its muffled, make sure SPECTRUM is on and not in preview mode. 
 
+- If you are unable to load videos or .obj files, update Ableton Live to the latest version. If this problem persists, email me.
+
 # Tips
 
 - Starter Settings: After loading a video to the BG, map some LFOs to color parameters, map SPECTRUM to brightness or another color effect , and use DIAL to move objects around, select shapes, or automate other video fx parameters.
