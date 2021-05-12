@@ -27,9 +27,11 @@ To start sending control signals with 5LFO, DIAL, or SPECTRUM, make sure the dev
 
 - If your videos are stuttering, hit the X button near the name of the geometry that seems to have a video skipping. When you see the video play in reverse instead of ending, press the button again and the skipping should be gone. (this is a result of a bug within jit.movie, the “bug buttons” are a temporary fix)
 
-- If there is no audio coming through a track, or its muffled, make sure SPECTRUM is on and not in preview mode. 
+- If there is no audio coming through a track, or its muffled, make sure SPECTRUM is on and not in preview mode. If this doesnt work, press the L/R toggle a few times. Th
 
-- If you are unable to load videos or .obj files, update Ableton Live to the latest version. If this problem persists, email me.
+- If you are unable to load videos or .obj files, update Ableton Live to the latest version. 
+
+If any of these problems persist, email me so i know what to include in the next update.
 
 # Tips
 
